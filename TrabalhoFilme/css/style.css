@@ -1,0 +1,28 @@
+
+#foto_principal{
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+}
+
+.navbar{
+    background-color: rgba(138,43,226, 0.8);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#parte_filmes{
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+.card{
+    margin: 1%;
+
+}
