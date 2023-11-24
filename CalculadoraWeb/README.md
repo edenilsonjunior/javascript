@@ -2,8 +2,6 @@
 
 Este é um projeto de uma calculadora web desenvolvida com HTML, CSS e JavaScript. A calculadora possui uma interface que simula a aparência de um smartphone e permite que o usuário realize cálculos matemáticos simples, incluindo operações de adição, subtração, multiplicação, divisão, porcentagem e cálculo da raiz quadrada.
 
-![image](https://github.com/edenilsonjunior/javascript/assets/110670578/8ba6a596-453a-4d59-959d-351cd5b3d6fa)
-
 ## Estrutura do Projeto
 
 O projeto é composto por três arquivos principais:
