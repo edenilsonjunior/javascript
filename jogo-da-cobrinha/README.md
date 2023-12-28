@@ -2,7 +2,10 @@
 
 Este é o jogo da cobrinha implementado em JavaScript, utilizando programação orientada a objetos.
 
-![image](https://github.com/edenilsonjunior/jogoDaCobrinha/assets/110670578/abb915a1-1787-4ff7-8f67-b66067919412)
+
+<div align="center">
+    <img src="https://github.com/edenilsonjunior/javascript/assets/110670578/7ac0640b-794d-4b39-95f7-a7480bb3419a" alt="jogadagif">
+</div>
 
 
 ## Autores 
