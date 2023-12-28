@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-image: url("assets/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#text-area {
+    font-family: 'HISKYFLIPPERHIBOLD', sans-serif;
+    font-size: 150%;
+    color: #ff0167;
+}
+
+@keyframes rotateColors {
+    0% {
+        border-color: rgb(148, 0, 211); 
+    }
+    25% {
+        border-color: rgb(255, 105, 180); 
+    }
+    50% {
+        border-color: rgb(165,15,86);
+    }
+    75% {
+        border-color: rgb(255, 105, 180);
+    } 
+    100% {
+        border-color: rgb(255, 0, 255); 
+    }
+}
+
+#tabuleiro {
+    border: 5px solid;
+    animation: rotateColors 5s linear infinite; 
+}
