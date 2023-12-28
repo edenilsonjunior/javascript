@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descrição</title>
+    <link href="https://getbootstrap.com.br/docs/4.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <a class="navbar-brand" href="index.html">Site de Filmes!</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+                aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Página Inicial</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://github.com/edenilsonjunior">GitHub</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main id="main_filme">
+        <div id="movie-details">
+            <img id="movie-poster" src="" alt="Movie Poster">
+            <h1 id="movie-title"></h1>
+            <h3>Resumo do filme:</h3>
+            <p id="movie-plot"></p>
+
+            <p><span id="bold">Tipo: </span> <span id="movie-type"></span></p>
+            <p><span id="bold">Data de lançamento: </span> <span id="movie-lanc"></span></p>
+
+            <p><span id="bold">Genero: </span> <span id="movie-genre"></span></p>
+            <p><span id="bold">Elenco: </span> <span id="movie-actors"></span></p>
+
+            <p><span id="bold">Língua do filme: </span> <span id="movie-language"></span></p>
+            <p><span id="bold">Prêmios: </span> <span id="movie-awards"></span></p>
+        </div>
+    </main>
+    <script src="js/detalhe.js"></script>
+</body>
+
+</html>
