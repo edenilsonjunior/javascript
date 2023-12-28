@@ -1,8 +1,11 @@
 # Jogo da forca em JavaScript
 
-Este é o jogo da forca implementado em JavaScript.
 
-![image](https://github.com/edenilsonjunior/edenilsonjunior/assets/110670578/8acb4792-b985-4d4e-ae74-c5365d0f2bce)
+<div align="center">
+
+  ![image](https://github.com/edenilsonjunior/javascript/assets/110670578/196d27ca-7e74-45b5-b0a0-3808b12b89e6)
+
+</div>
 
 
 ## Autor
