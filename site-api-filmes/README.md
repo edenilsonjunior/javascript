@@ -2,7 +2,7 @@
 
 Este é um projeto de um site de filmes que faz consulta de uma api de filmes e exibe suas informações no site. 
 
-![image](https://github.com/edenilsonjunior/edenilsonjunior/assets/110670578/0ec7d766-758e-463a-a784-2e9adc997f9f)
+![image](https://github.com/edenilsonjunior/javascript/assets/110670578/09574a09-b84e-49c3-8d76-b8b094d1f240)
 
 
 ## Autor
