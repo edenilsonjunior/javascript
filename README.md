@@ -4,13 +4,13 @@ Este repositório contém uma coleção de projetos em JavaScript. Cada projeto 
 
 ## Projetos
 
-- [Calculadora js](./calculadora-web/README.md): Calculadora implementada em JavaScript.
+- [Calculadora js](https://github.com/edenilsonjunior/javascript/tree/main/calculadora-web): Calculadora implementada em JavaScript.
 
-- [Jogo da Cobrinha](./jogo-da-cobrinha/README.md): Jogo da Cobrinha utilizando JavaScript orientado a objetos. 
+- [Jogo da Cobrinha](https://github.com/edenilsonjunior/javascript/tree/main/jogo-da-cobrinha): Jogo da Cobrinha utilizando JavaScript orientado a objetos. 
 
-- [Site de filmes com API](./site-api-filmes/README.md): Site descritivo de filmes que faz consulta à API.
+- [Site de filmes com API](https://github.com/edenilsonjunior/javascript/tree/main/site-api-filmes): Site descritivo de filmes que faz consulta à API.
 
-- [Jogo da forca](./jogo-da-forca/README.md): Jogo da forca.
+- [Jogo da forca](https://github.com/edenilsonjunior/javascript/tree/main/jogo-da-forca): Jogo da forca.
 
 ## Contato
 
